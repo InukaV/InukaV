@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InukaV
 - 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫My email - vimuthinuka@gmail.com
 - 😄 Pronouns: he/him
